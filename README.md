@@ -1,1 +1,1 @@
-# Word2Vec
+# Word2Vec Skip-gram, CBOW
